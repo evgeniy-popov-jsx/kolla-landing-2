@@ -10,7 +10,7 @@ function CardVersionOne (){
                     </div>
                     <div className="content">
                         <div className="content__photo">
-                            <img src='assets/kirill.png' alt="" />
+                            <img src='assets/Kirill.png' alt="" />
                         </div>
                         <div className="content__info info">
                             <div className="info__lector">
