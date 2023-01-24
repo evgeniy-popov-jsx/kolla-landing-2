@@ -10,7 +10,7 @@ function CardVersionTwo (){
                     </div>
                     <div className="content__reverse">
                         <div className="content__photo">
-                            <img src='assets/Mike.jpg' alt="" />
+                            <img src='assets/Mike.png' alt="" />
                         </div>
                         <div className="content__info info">
                             <div className="info__lector reverse">

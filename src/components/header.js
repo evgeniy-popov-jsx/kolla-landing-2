@@ -11,14 +11,14 @@ function Header(){
                 </div>
                 <div className="header__discription discription">
                     <div className="discription__inner">
-                        Kolla presents public space for curated{"\n"}
+                        Kolla presents public space for curated
                         discussions and knowledge sharing initiative
                     </div>
                     <div className="discription__inner">
-                        Our mission is to create an environment for{"\n"}
-                        creative personas to participate, to share and{"\n"}
-                        exchange knowledge, ideas and vision for the{"\n"} 
-                        future of art in the open environment of the{"\n"}
+                        Our mission is to create an environment for
+                        creative personas to participate, to share and
+                        exchange knowledge, ideas and vision for the
+                        future of art in the open environment of the
                         un-bordered island
                     </div>
                 </div>

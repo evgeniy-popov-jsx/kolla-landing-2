@@ -1,5 +1,5 @@
-function CardVersionOne (){
-
+function CardVersionOne (){  
+    
     return (
         <div className="card">
             <div className="container">
@@ -18,9 +18,9 @@ function CardVersionOne (){
                                 <span>Kirill Preobrazhensky</span>
                             </div>
                             <div className="info__discription">
-                                Video art — from{"\n"}
-                                Lumière brothers{"\n"}
-                                to the digital{"\n"}
+                                Video art — from
+                                Lumière brothers
+                                to the digital
                                 media revolution
                             </div>
                             <div className="info__idea">
