@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/kolla-landing-2/static/js/main.7f31767a.js",
+    "main.js": "/kolla-landing-2/static/js/main.746fdc57.js",
     "index.html": "/kolla-landing-2/index.html",
-    "main.7f31767a.js.map": "/kolla-landing-2/static/js/main.7f31767a.js.map"
+    "main.746fdc57.js.map": "/kolla-landing-2/static/js/main.746fdc57.js.map"
   },
   "entrypoints": [
-    "static/js/main.7f31767a.js"
+    "static/js/main.746fdc57.js"
   ]
 }
